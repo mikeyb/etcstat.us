@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-var debug = require('debug')('eth-netstats');
+var debug = require('debug')('etcstat.us');
 var app = require('../app');
