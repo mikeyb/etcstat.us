@@ -1,5 +1,5 @@
 {
-  "name": "etcstat.us",
+  "name": "etcstatus",
   "description": "Ethereum Classic Network Intelligence dashboard",
   "version": "0.0.9",
   "private": true,
